@@ -5,7 +5,7 @@ import jwt from 'jsonwebtoken';
 import bcrypt from 'bcrypt';
 
 const app = express();
-const port = 5000; // Mengubah port menjadi 5000
+const port = 5000;
 
 app.use(bodyParser.json());
 
