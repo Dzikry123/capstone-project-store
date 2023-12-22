@@ -6,12 +6,12 @@ Before you begin, make sure you have the following software installed on your sy
 •	NPM
 
 We use 1 framework for 4 API:
-•	Express.js framework for Register, Login, Job list, Community
+- Express.js framework for Register, Login, Job list, Community
 
 Services we used in Google Cloud Platform:
-•	App engine
-•	Cloud SQL
-•	Cloud Storage
+- App engine
+- Cloud SQL
+- Cloud Storage
 
 # ALL ENDPOINT BACKEND 
 job hunter :
