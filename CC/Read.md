@@ -39,3 +39,8 @@ komunitas :
 - https://jobharbor-api-dot-login-api-12.et.r.appspot.com/komunitas/post/:id (langsung angka 1,2 atau 3. tidak usah pakai titik dua) (GET)
 - https://jobharbor-api-dot-login-api-12.et.r.appspot.com/komunitas/post/:id (langsung angka 1,2 atau 3. tidak usah pakai titik dua) (PUT)
 - https://jobharbor-api-dot-login-api-12.et.r.appspot.com/komunitas/post/:id (langsung angka 1,2 atau 3. tidak usah pakai titik dua) (DELETE)
+
+# CC Member
+
+Michael : https://www.linkedin.com/in/michael-hanry-3231421a3/
+I Made Bayu S.W : https://www.linkedin.com/in/i-made-bayu-satria-wardhana-5864331b9/
