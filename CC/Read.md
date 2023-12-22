@@ -42,5 +42,5 @@ komunitas :
 
 # CC Member
 
-Michael : https://www.linkedin.com/in/michael-hanry-3231421a3/
-I Made Bayu S.W : https://www.linkedin.com/in/i-made-bayu-satria-wardhana-5864331b9/
+- Michael : https://www.linkedin.com/in/michael-hanry-3231421a3/
+- I Made Bayu S.W : https://www.linkedin.com/in/i-made-bayu-satria-wardhana-5864331b9/
