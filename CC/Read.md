@@ -1,7 +1,7 @@
-# CLOUD DOCUMENTATION 
+## CLOUD DOCUMENTATION 
 
-- Prerequisites
-- Before you begin, make sure you have the following software installed on your system:
+# Prerequisites
+Before you begin, make sure you have the following software installed on your system:
 - Node.js (version 20)
 - NPM
 
@@ -13,7 +13,7 @@ Services we used in Google Cloud Platform:
 - Cloud SQL
 - Cloud Storage
 
-# ALL ENDPOINT BACKEND 
+## ALL ENDPOINT BACKEND 
 job hunter :
 - https://jobharbor-api-dot-login-api-12.et.r.appspot.com/user/register (POST)
 - https://jobharbor-api-dot-login-api-12.et.r.appspot.com/user/login (POST)
