@@ -1,7 +1,7 @@
 # CLOUD DOCUMENTATION 
 
-Prerequisites
-Before you begin, make sure you have the following software installed on your system:
+- Prerequisites
+- Before you begin, make sure you have the following software installed on your system:
 - Node.js (version 20)
 - NPM
 
