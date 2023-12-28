@@ -1,0 +1,21 @@
+Id_Pengguna,Nama_Pengguna,Usia,Pendidikan,Keterampilan,Industri
+01,Andi,30,SMA,Keterampilan kebun,Pertanian
+02,Budi,28,S1,Keterampilan anyaman,Kerajinan
+03,Cindy,27,SMA,Keterampilan menjahit,Fashion
+04,Dini,32,D3,Keterampilan kerajinan tangan,Kerajinan
+05,Eko,29,SMA,Keterampilan batik,Fashion
+06,Fani,31,D3,Keterampilan pemotongan kayu,Furnitur
+07,Gita,26,S1,Keterampilan pemintalan benang,Tekstil
+08,Hadi,33,D3,Keterampilan las,Manufaktur
+09,Indra,35,S1,Keterampilan pembuatan perhiasan,Perhiasan
+10,Joko,27,SMA,Keterampilan penyulingan minyak,Perminyakan
+11,Kiki,29,S1,Keterampilan keramik,Kerajinan
+12,Lina,30,SMA,Keterampilan patung,Kerajinan
+13,Mira,28,D3,Keterampilan pemotongan kain,Fashion
+14,Niko,27,SMA,Keterampilan pembuatan mebel,Furnitur
+15,Oscar,31,D3,Keterampilan pengrajin logam,Manufaktur
+16,Putri,29,S1,Keterampilan pemotongan batu,Kerajinan
+17,Rani,33,D3,Keterampilan pemintalan wol,Tekstil
+18,Sinta,26,SMA,Keterampilan bangunan,Konstruksi
+19,Tono,32,S1,Keterampilan pembuatan kain tenun,Fashion
+20,Umi,27,D3,Keterampilan pengrajin perak,Perhiasan

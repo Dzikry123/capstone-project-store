@@ -1,0 +1,21 @@
+Id_Pekerjaan,Nama_Pekerjaan,Deskripsi_Pekerjaan,Persyaratan_Pendidikan,Keterampilan,Lokasi_Pekerjaan,Gaji,Industri
+01,Tukang Kebun,"Melakukan perawatan kebun, seperti menyiram tanaman, memangkas dedaunan, dan membersihkan area kebun",Tidak memerlukan pendidikan formal,Keterampilan kebun,Jakarta,Rp 3.000.000 - Rp 4.000.000,Pertanian
+02,Pengrajin Anyaman,Membuat anyaman dari bahan-bahan alami seperti bambu atau rotan,Tidak memerlukan pendidikan formal,Keterampilan anyaman,Jakarta,Rp 3.500.000 - Rp 4.500.000,Kerajinan
+03,Penjahit,Menghasilkan produk jadi berdasarkan desain dan pola yang diberikan,Tidak memerlukan pendidikan formal,Keterampilan menjahit,Surabaya,Rp 4.000.000 - Rp 5.000.000,Fashion
+04,Pembuat Kerajinan Tangan,Membuat produk kerajinan tangan seperti tas rajut atau gantungan kunci,Tidak memerlukan pendidikan formal,Keterampilan kerajinan tangan,Yogyakarta,Rp 4.500.000 - Rp 5.500.000,Kerajinan
+05,Pengrajin Batik,Menghasilkan batik dengan teknik tradisional,Tidak memerlukan pendidikan formal,Keterampilan batik,Medan,Rp 5.000.000 - Rp 6.000.000,Fashion
+06,Pemotong Kayu,Memotong kayu sesuai dengan desain yang diinginkan,Tidak memerlukan pendidikan formal,Keterampilan pemotongan kayu,Semarang,Rp 5.500.000 - Rp 6.500.000,Furnitur
+07,Pemintal Benang,Memintal benang untuk keperluan produksi tekstil,Tidak memerlukan pendidikan formal,Keterampilan pemintalan benang,Makassar,Rp 6.000.000 - Rp 7.000.000,Tekstil
+08,Tukang Las,Melakukan pekerjaan las pada berbagai jenis logam,Tidak memerlukan pendidikan formal,Keterampilan las,Palembang,Rp 6.500.000 - Rp 7.500.000,Manufaktur
+09,Pengrajin Perhiasan,"Membuat perhiasan seperti kalung, cincin, dan gelang",Tidak memerlukan pendidikan formal,Keterampilan pembuatan perhiasan,Malang,Rp 7.000.000 - Rp 8.000.000,Perhiasan
+10,Penyuling Minyak,Mengolah minyak mentah menjadi minyak yang siap digunakan,Tidak memerlukan pendidikan formal,Keterampilan penyulingan minyak,Denpasar,Rp 7.500.000 - Rp 8.500.000,Perminyakan
+11,Pengrajin Keramik,Membuat keramik dengan teknik dan desain yang kreatif,Tidak memerlukan pendidikan formal,Keterampilan keramik,Bandung,Rp 4.000.000 - Rp 5.000.000,Kerajinan
+12,Pembuat Patung,"Membuat patung dengan berbagai bahan seperti kayu, batu, atau logam",Tidak memerlukan pendidikan formal,Keterampilan patung,Yogyakarta,Rp 4.500.000 - Rp 5.500.000,Kerajinan
+13,Pemotong Kain,Memotong kain sesuai dengan pola yang diberikan,Tidak memerlukan pendidikan formal,Keterampilan pemotongan kain,Surabaya,Rp 5.000.000 - Rp 6.000.000,Fashion
+14,Pembuat Mebel,"Membuat mebel seperti kursi, meja, atau lemari",Tidak memerlukan pendidikan formal,Keterampilan pembuatan mebel,Jakarta,Rp 5.500.000 - Rp 6.500.000,Furnitur
+15,Pengrajin Logam,Mengolah logam menjadi produk seperti perhiasan atau aksesori,Tidak memerlukan pendidikan formal,Keterampilan pengrajin logam,Medan,Rp 6.000.000 - Rp 7.000.000,Manufaktur
+16,Pemotong Batu,Memotong batu untuk keperluan pembuatan perhiasan atau patung,Tidak memerlukan pendidikan formal,Keterampilan pemotongan batu,Semarang,Rp 6.500.000 - Rp 7.500.000,Kerajinan
+17,Pemintal Wol,Memintal wol menjadi benang untuk keperluan produksi tekstil,Tidak memerlukan pendidikan formal,Keterampilan pemintalan wol,Makassar,Rp 7.000.000 - Rp 8.000.000,Tekstil
+18,Tukang Bangunan,Melakukan pekerjaan konstruksi pada bangunan,Tidak memerlukan pendidikan formal,Keterampilan bangunan,Palembang,Rp 7.500.000 - Rp 8.500.000,Konstruksi
+19,Pembuat Kain Tenun,Membuat kain tenun dengan motif dan pola tertentu,Tidak memerlukan pendidikan formal,Keterampilan pembuatan kain tenun,Malang,Rp 8.000.000 - Rp 9.000.000,Fashion
+20,Pengrajin Perak,Menghasilkan perak menjadi perhiasan seperti cincin atau gelang,Tidak memerlukan pendidikan formal,Keterampilan pengrajin perak,Denpasar,Rp 8.500.000 - Rp 9.500.000,Perhiasan
